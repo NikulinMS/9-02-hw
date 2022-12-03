@@ -43,4 +43,5 @@
 
 ### Задание 3*
 
+![disk_C_free_space.png](img%2Fdisk_C_free_space.png)
 
