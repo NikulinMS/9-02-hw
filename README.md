@@ -43,4 +43,6 @@
 
 ### Задание 3*
 
+![windows_host.png](img%2Fwindows_host.png)
+![disk_C_free_space.png](img%2Fdisk_C_free_space.png)
 
